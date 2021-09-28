@@ -1,0 +1,1 @@
+find -type f -size +50000k -iname '*.mp4' -exec ./helper.sh {} \;
